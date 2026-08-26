@@ -1,8 +1,8 @@
-# Hi, I'm Leandy Gabin Fermin 👋
+# Hi, I'm Leandy Gabin Fermin 
 
-🎓 Software Engineering Student at UAPA
-💻 Focused on Backend & Web Development
-📍 Santiago de los Caballeros, Dominican Republic
+Software Engineering Student at UAPA
+Focused on Backend & Web Development
+Santiago de los Caballeros, Dominican Republic
 
 ## About Me
 
@@ -12,7 +12,7 @@ I enjoy building application logic, solving technical problems, and understandin
 
 I'm currently looking for internship and junior opportunities where I can gain professional experience, contribute to real-world projects, and continue developing my skills as a software engineer.
 
-## 🛠️ Technologies
+## Technologies
 
 ### Currently working with
 
@@ -33,7 +33,7 @@ I'm currently looking for internship and junior opportunities where I can gain p
 * Cloud technologies
 * Software architecture
 
-## 🚀 Featured Project
+## Featured Project
 
 ### Mechanical Workshop Appointment Management System
 
@@ -43,16 +43,16 @@ I independently handled the complete development of the application, including t
 
 **Technologies:** JavaScript, Node.js, Express.js, MySQL, HTML, CSS
 
-🌐 [Live Demo](http://tallermecanicotest.netlify.app/)
-💻 [Source Code](https://github.com/leandy1/DAW-isw306)
+[Live Demo](http://tallermecanicotest.netlify.app/)
+[Source Code](https://github.com/leandy1/DAW-isw306)
 
-## 🎯 Currently
+## Currently
 
 * Improving my backend development skills with Node.js and Express.js
 * Learning Python
 * Exploring REST APIs, React, Docker and cloud technologies
 * Looking for software development internships and junior opportunities
 
-## 📫 Contact
+## Contact
 
 Feel free to connect with me on GitHub or LinkedIn.
